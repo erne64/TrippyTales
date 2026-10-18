@@ -68,8 +68,10 @@ Il **Game Design Document (GDD)** completo è consultabile direttamente nel repo
 ### Per lo Sviluppo (Unity Editor)
 
 1. Clona il repository:
-   `ash
-   git clone https://github.com/TUO_USERNAME/TrippyTales.git
-   `
+
+   ```bash
+   git clone https://github.com/erne64/TrippyTales.git
+   ```
+
 2. Apri **Unity Hub** e aggiungi il progetto selezionando la cartella clonata.
 3. Apri la scena Assets/Scenes/MainMenu.unity e premi **Play**.
