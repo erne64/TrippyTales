@@ -8,8 +8,8 @@ Il giocatore deve sopravvivere a ondate crescenti di nemici, gestire con cura mu
 
 ## 👥 Autori (Development Team)
 
-* **Ernesto Gligora** — [@erne64](https://github.com/erne64)
-* **Riccardo Lavorato** — [@Riccardo-27](https://github.com/Riccardo-27)
+* **Ernesto Gligora**
+* **Riccardo Lavorato**
 
 ---
 

@@ -1,4 +1,0 @@
-repository "TrippyTales/TrippyTales@20066667488149@cloud"
-  path "/"
-    br "/main"
-    co "/main"
