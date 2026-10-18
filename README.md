@@ -1,4 +1,4 @@
-﻿# 🍄 TrippyTales
+﻿# 🧟 TrippyTales
 
 Un videogioco 3D d'azione e sopravvivenza contro orde di zombie, sviluppato in **Unity** e **C#**.
 
@@ -8,8 +8,8 @@ Il giocatore deve sopravvivere a ondate crescenti di nemici, gestire con cura mu
 
 ## 👥 Autori (Development Team)
 
-* **Ernesto Gligora**
-* **Riccardo Lavorato**
+* **Ernesto Gligora** — [@erne64](https://github.com/erne64)
+* **Riccardo Lavorato** — [@Riccardo-27](https://github.com/Riccardo-27)
 
 ---
 
@@ -42,7 +42,7 @@ Il **Game Design Document (GDD)** completo è consultabile direttamente nel repo
 
 ---
 
-## ⌨️ Controlli di Gioco
+## 🕹️ Controlli di Gioco
 
 | Comando | Azione |
 | :--- | :--- |
@@ -61,9 +61,9 @@ Il **Game Design Document (GDD)** completo è consultabile direttamente nel repo
 
 ### Per Giocare (Build Standalone)
 
-1. Vai nella sezione [**Releases**](../../releases) del repository.
-2. Scarica il file TrippyTales.zip.
-3. Estrai la cartella e avvia TrippyTales.exe.
+1. Vai nella sezione [**Releases**](https://github.com/erne64/TrippyTales/releases) del repository.
+2. Scarica il file `.zip` dell'ultima versione.
+3. Estrai la cartella e avvia `TrippyTales.exe`.
 
 ### Per lo Sviluppo (Unity Editor)
 
@@ -74,4 +74,4 @@ Il **Game Design Document (GDD)** completo è consultabile direttamente nel repo
    ```
 
 2. Apri **Unity Hub** e aggiungi il progetto selezionando la cartella clonata.
-3. Apri la scena Assets/Scenes/MainMenu.unity e premi **Play**.
+3. Apri la scena `Assets/Scenes/MainMenu.unity` e premi **Play**.
